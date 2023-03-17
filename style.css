@@ -1,0 +1,257 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.nava{
+  color:white;
+    text-decoration: none;
+    padding: 7%;
+    display: flex;
+     
+
+}
+a{
+    margin: 0% 8% 0% 0%;
+    text-decoration: none;
+    color: white;
+}
+.in{
+    text-align: center;
+    text-decoration: none;
+    color: white;
+}
+.in button{
+    border-radius: 10%;
+    background-color: blueviolet;
+    text-decoration: none;
+    color: white;
+    border: none;
+}
+
+    .top{
+        background-image:url(hotel.jpg) ;
+        background-attachment: fixed;
+        background-size: cover;
+        text-decoration: none;
+        padding-bottom: 10%;
+        
+    }
+
+
+
+.palace{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10%;
+    margin-bottom: 15%;
+    
+}
+.p1{
+    height: 70%;
+    width: 100%;
+}
+.p2{
+    height: 70%;
+    width: 100%;
+
+}
+.p3{
+    height: 70%;
+    width: 100%;
+
+}
+
+.m1{
+    text-align: center;
+    margin-right: 20%;
+}
+.palace button{
+    background-color: rgb(74, 74, 165);
+    text-decoration: none;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 10%;
+    border: none;
+}
+.icons{
+    display: flex;
+    gap: 15%;
+    margin-left: 5%;
+}
+.icons1{
+    display: flex;
+    gap: 15%;
+    margin-left:5% ;
+}
+.cute{
+    display: flex;
+    gap: 5%;
+
+}
+.menu1{
+    text-align: center;
+}
+.rooms{
+    display: flex;
+    gap: 5%;
+
+}
+.r1{
+    height: 70%;
+    width: 100%;
+
+}
+.r2{
+    height: 70%;
+    width: 100%;
+
+}
+.r3{
+    height: 70%;
+    width: 100%;
+
+}
+.r4{
+    height: 70%;
+    width: 100%;
+
+}
+.r5{
+    height: 70%;
+    width: 100%;
+
+}
+.r6{
+    height: 70%;
+    width: 100%;
+    
+
+}
+.rice{
+    display: flex;
+    gap: 5%;
+    margin-bottom: 20%;
+    margin-top: 10%;
+
+}
+.delicious{
+    display: flex;
+    gap: 5%;
+    margin-top: 10%;
+
+}
+.d1{
+    height: 70%;
+    width: 100%;
+}
+.d2{
+    height: 70%;
+    width: 100%;
+}
+.d3{
+    height: 70%;
+    width: 100%;
+}
+.d4{
+    height: 70%;
+    width: 100%;
+}
+.d5{
+    height: 70%;
+    width: 100%;
+}
+.d6{
+    height: 70%;
+    width: 100%;
+}
+.t1{
+    text-align: center;
+}
+.rice button{
+    background-color: rgb(74, 74, 165);
+    text-decoration: none;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 20%;
+    border: none;
+}
+.delicious button{
+    background-color: rgb(74, 74, 165);
+    text-decoration: none;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 20%; 
+    border: none;
+}
+.opinion{
+    display: flex;
+    gap: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+    
+}
+.cliant1{
+    height: 20%;
+    width: 60%;   
+}
+.cliant2{
+    height: 20%;
+    width: 60%;
+}
+.cliant3{
+    height: 20%;
+    width: 60%;
+}
+.last{
+    display: flex;
+}
+.qs{
+    text-align: center;
+}
+.tech{
+    height: 90%;
+    width: 300px; 
+}
+.luxury{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 10%;
+    margin-left: 20%;
+}
+.luxury button{
+    
+background-color: blue;
+text-decoration: none;
+color: white;
+border-radius: 20%;
+padding: 10%;
+border: none;
+
+}
+.endings{
+    text-align: center;
+    background-color: rgb(54, 14, 233);
+    text-decoration: none;
+    color: white;
+    border-top-right-radius: 20%;
+
+}
+.endings button{
+    border-radius: 20%;
+    background-color: white;
+    border: none;
+    padding: 3%;
+    margin-bottom: 2%;
+    border: solid;
+}
+.footer{
+    display: flex;
+    gap: 10%;
+    background-color: gainsboro;
+    text-decoration: none;
+    padding: 3%;
+    color: black;
+    margin-top: 10%;
+    list-style: none;
+
+}
