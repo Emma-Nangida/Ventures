@@ -255,3 +255,113 @@ border: none;
     list-style: none;
 
 }
+.nav ul li{
+  display: flex;
+  justify-content: space-between; 
+  display: inline;
+  padding: 10px;
+  margin-left: 4%;
+  
+}
+.nav .but1{
+text-decoration: none;
+background:white;
+color: blue;
+border-color: blue;
+}
+
+    .nav .but2{
+        text-decoration: none;
+        background:blue;
+        color:white;
+        border-color: blue;
+        
+}
+.genrooms{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+.seahotel{
+    display: grid;
+}
+
+    
+        
+    
+    .seahotel{
+        
+        height: 30vh;
+        width:5% ;
+        margin-left: 3%;
+        margin-top: 5%;
+        margin-bottom: 5%;
+    }
+    .toprooms{
+        display: grid;
+        grid-template-columns: repeat(9,1fr);
+        margin-bottom: 10%;
+    }
+    .rooms{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+        
+    }
+    .rooms img{
+        height: 30vh;
+        width: 90%;
+        margin-left: 40%;
+        margin-right: 20%; 
+        margin-top: 30%;
+        border-radius: 10%;
+        
+         
+    }
+.rooms1{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+ }
+ .rooms1 img{
+    height: 30vh;
+     width: 90%;
+     margin-left:40% ;
+     margin-top: 10%;
+     margin-right: 20%;
+     border-radius: 10%;
+     
+ }
+ 
+ 
+ .rooms2{
+   display: grid; 
+   grid-template-columns: repeat(3,1fr);
+    
+ }
+ 
+  
+ .rooms2 img{
+    height: 30vh;
+     width: 90%;
+     margin-left: 40%;
+     margin-top: 10%;
+     margin-right: 20%;
+     border-radius: 10%;
+  }
+  .morez{
+    text-align: center;
+    margin-bottom:50% ;
+    padding: 10%;
+    margin-left: 30%;
+    
+  }
+  .Details{
+    margin-top: 40%;
+    margin-left: 5%;
+  }
+  .Details button{
+    padding: 20px 20px;
+    background-color: blue;
+    color: white;
+    gap: 20%;
+    
+  }
+  
