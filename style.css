@@ -358,10 +358,94 @@ border-color: blue;
     margin-left: 5%;
   }
   .Details button{
-    padding: 20px 20px;
+    padding: 10px;
     background-color: blue;
     color: white;
-    gap: 20%;
+    /* gap: 20%; */
+    border: none;
     
+  }
+  .list{
+  
+    text-decoration: none;
+    display: flex;
+
+  }
+  .lorem{
+    display: flex;
+    gap: 5%;
+  }
+
+  .lorem0{
+    width: 70%;
+    height: 50%;
+    border-top-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+    margin-top: 10%;
+  }
+  .lorem1{
+    margin-top: 5%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+  }
+  .lorem1 button{
+    background-color:white;
+    text-decoration: none;
+    color:blue;
+    border-color:blue
+  }
+  .dd2{
+    display: flex;
+    gap: 5%;
+  }
+  .lorem2{
+    margin-top: 5%;
+    margin-left: 10%;
+    margin-bottom: 10%;
+  }
+  .lorem3{
+    width: 70%;
+    height: 50%;
+    border-top-right-radius: 40%;
+    border-bottom-left-radius: 40%;
+    margin-top: 10%;
+  }
+  .lorem2 button{
+    background-color:white;
+    text-decoration: none;
+    color:blue;
+    border-color:blue
+  }
+  .dd3{
+    display: flex;
+    gap: 5%;
+  }
+  .lorem4{
+    width: 80%;
+    height: 60%;
+    border-top-left-radius: 40%;
+    border-bottom-right-radius: 40%;
+    margin-top: 10%;
+  }
+  .lorem5{
+    margin-top: 5%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+  }
+  .lorem5 button{
+    background-color:white;
+    text-decoration: none;
+    color:blue;
+    border-color:blue
+  }
+  .footer3{
+    display: flex;
+    gap: 10%;
+    background-color: gainsboro;
+    text-decoration: none;
+    padding: 3%;
+    color: black;
+    list-style: none;
+    margin-bottom: 2%;
   }
   
