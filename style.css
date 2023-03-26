@@ -36,6 +36,10 @@ a{
         padding-bottom: 10%;
         
     }
+    body{
+        overflow-x: hidden;
+        overflow-y: scroll;
+    }
 
 
 
