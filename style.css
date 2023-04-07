@@ -371,8 +371,17 @@ border-color: blue;
   }
   .list{
   
-    text-decoration: none;
-    display: flex;
+    display: inline-block;
+  }
+
+  .list ul li{
+    list-style: none;
+    display: inline-block;
+    
+
+  }
+  .joy{
+    margin-left: 100%;
 
   }
   .lorem{
@@ -444,12 +453,53 @@ border-color: blue;
   }
   .footer3{
     display: flex;
-    gap: 10%;
+    gap: 5%;
     background-color: gainsboro;
     text-decoration: none;
-    padding: 3%;
+    padding: 1%;
     color: black;
     list-style: none;
     margin-bottom: 2%;
+    
   }
+  .reachout{
+  background-color: rgb(182, 182, 175);
+  }
+  .listlast{
+margin-right: 4%;
+display: flex;
+
+  }
+  .reach{
+    text-align: center;
+    margin-right: 5%;
+    margin-top: 5%;
+  }
+  .Details3{
+   display: flex;
+   margin-left: 30%;
+    
+  }
+  .info3{
+    margin-left: 30%;
+    
+  }
+  .info4{
+    text-align: center;
+    padding-bottom: 130px;
+  }
+  .meso{
+    padding:1%;
+    text-decoration: none;
+    color: white;
+    background-color: blue;
+    border: none;
+
+  }
+  .mess{
+    padding-bottom: 10%;
+    width: 30%;
+    text-align: left;
+  }
+  
   
